@@ -3,6 +3,12 @@ body {
     font-family: 'Outfit', sans-serif;
     font-size: 10px;
 }
+header {
+    display: inline-flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+}
 .qr_card{
     background-color: hsl(0, 0%, 100%);
     position: absolute;
