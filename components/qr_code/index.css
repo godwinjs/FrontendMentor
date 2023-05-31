@@ -12,7 +12,7 @@ body {
     padding: 2%; 
     max-width: 75%;
     border-radius: 1rem;
-    box-shadow: 10px 10px 50px hsl(212, 45%, 89%);
+    box-shadow: 10px 10px 10px hsl(212, 39%, 85%);
     transition: width .5s;
 }
 .qr_card_title{
